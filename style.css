@@ -121,6 +121,10 @@ body.dark-mode #footer { background: linear-gradient(to top, var(--backdrop-dark
     #left { text-align: center; margin-bottom: 24px; }
 }
 
+.subitem {
+    margin-left: 24px;
+}
+
 /* Event Status */
 .past { text-decoration: line-through; opacity: 0.6; }
 .next { font-weight: bold; }
